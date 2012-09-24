@@ -7,7 +7,7 @@ This repository include the following contents:
 3. Feedbacks from students.
 4. FAQ (Japanese only)
 
-I'll write detailed description in English upon request.
+Details in English will be added upon demand.
 
 # What's Weekend Fabrication course? (en)
 
