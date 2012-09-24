@@ -25,7 +25,7 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 # What's Weekend Fabrication course? (ja)
 
-![Weekend Fabrication](https://dl.dropbox.com/u/2819285/weekend-fabrication-gist.png)
+![Weekend Fabrication](https://dl.dropbox.com/u/2819285/weekendfab/gist.png)
 
 ### 週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
 
@@ -33,6 +33,12 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 # How to run this course? (ja)
 
 T.B.D.
+
+Memos:
+
+![Concept(draft)](https://dl.dropbox.com/u/2819285/weekendfab/concept_draft.jpg)
+
+![Model](https://dl.dropbox.com/u/2819285/weekendfab/model.png)
 
 - [ものづくり講座の運営Tipsのメモを公開します。](http://kimihito.hatenablog.com/entry/2012/09/23/182003)
 
