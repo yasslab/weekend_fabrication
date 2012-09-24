@@ -23,6 +23,8 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 # What's Weekend Fabrication course? (ja)
 
+週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
+
 ![Weekend Fabrication](https://dl.dropbox.com/u/2819285/weekend-fabrication-gist.png)
 
 # How to run this course? (ja)
