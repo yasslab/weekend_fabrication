@@ -51,6 +51,11 @@ TODO: add more.
 - [週末ものづくり講座の体験版を受けてきた。](http://kimihito.hatenablog.com/entry/2012/09/23/173751)
 - [ものづくり講座の運営Tipsのメモを公開します。](http://kimihito.hatenablog.com/entry/2012/09/23/182003)
 
+- 週末ものづくり講座 in Ryukyu Univ.
+  - 一週間で作ろうとすると、アイデアが小さくなりがち.
+  - アカデミアに不向き(?): survey 不足・新規性の欠如.
+  - レガシーな技術で実装してしまいがち(?).
+
 
 # FAQ (ja)
 
