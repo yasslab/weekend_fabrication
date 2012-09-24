@@ -40,13 +40,12 @@ Memos:
 
 ![Model](https://dl.dropbox.com/u/2819285/weekendfab/model.png)
 
-- [ものづくり講座の運営Tipsのメモを公開します。](http://kimihito.hatenablog.com/entry/2012/09/23/182003)
-
 
 # Feedbacks from students
 
 - [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
 - [週末ものづくり講座の体験版を受けてきた。](http://kimihito.hatenablog.com/entry/2012/09/23/173751)
+- [ものづくり講座の運営Tipsのメモを公開します。](http://kimihito.hatenablog.com/entry/2012/09/23/182003)
 
 
 # FAQ (ja)
