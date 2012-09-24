@@ -32,16 +32,20 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 # How to run this course? (ja)
 
-T.B.D.
+TODO: write details with sentences.
 
-Memos:
+## Concept (draft)
 
 ![Concept(draft)](https://dl.dropbox.com/u/2819285/weekendfab/concept_draft.jpg)
+
+## Model
 
 ![Model](https://dl.dropbox.com/u/2819285/weekendfab/model.png)
 
 
 # Feedbacks from students
+
+TODO: add more.
 
 - [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
 - [週末ものづくり講座の体験版を受けてきた。](http://kimihito.hatenablog.com/entry/2012/09/23/173751)
