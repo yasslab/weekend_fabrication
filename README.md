@@ -25,7 +25,7 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 # What's Weekend Fabrication course? (ja)
 
-![Weekend Fabrication](https://dl.dropbox.com/u/2819285/weekendfab/gist.png)
+![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/gist.png)
 
 ### 週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
 
@@ -36,11 +36,11 @@ TODO: write details with sentences.
 
 ## Concept (draft)
 
-![Concept(draft)](https://dl.dropbox.com/u/2819285/weekendfab/concept_draft.jpg)
+![Concept(draft)](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_draft.jpg)
 
 ## Model
 
-![Model](https://dl.dropbox.com/u/2819285/weekendfab/model.png)
+![Model](https://raw.github.com/yasulab/weekend_fabrication/master/images/model.png)
 
 
 # Feedbacks from students
