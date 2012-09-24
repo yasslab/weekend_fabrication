@@ -1,11 +1,13 @@
-This is a repository that explains the followings:
+This is a single site repository that explains Weekend Fabrication course.
+
+This repository include the following contents:
 
 1. What's Weekend Fabrication course?
 2. How to run this course? (Japanese only)
 3. Feedbacks from students.
 4. FAQ (Japanese only)
 
-* I'll write English version upon request.
+I'll write detailed description in English upon request.
 
 # What's Weekend Fabrication course? (en)
 
