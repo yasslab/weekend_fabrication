@@ -1,6 +1,6 @@
-This is a single site repository that explains Weekend Fabrication course.
+This is a single site repository that explains Weekend Fabrication course via README.md.
 
-This repository include the following contents:
+This repository includes the following contents:
 
 1. What's Weekend Fabrication course?
 2. How to run this course? (Japanese only)
@@ -12,7 +12,7 @@ Details in English will be added upon demand.
 # What's Weekend Fabrication course? (en)
 
 Weekend Fabrication is a lean-startup-based course that 
-teaches students in Okinawa about how to make web/mobile 
+teaches students in Okinawa, Japan, about how to make web/mobile 
 applications and English, where students need to 
 1) implement something he/she wants, 2) show it to others, 
 and 3) decide what to create/update/delete in the next week. 
@@ -20,6 +20,10 @@ and 3) decide what to create/update/delete in the next week.
 All students taking this course repeats this process every week.
 At the end of the term, they will give presentations of their
 final product(s) in English to the media in Okinawa.
+
+
+__The number of actual users of your product is important, but the most impotant thing in this academy is to acquire the mind set of individual thought through tons of fabrications.__
+
 
 This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/seminar/making.php).
 
