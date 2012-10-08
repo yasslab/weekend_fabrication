@@ -114,7 +114,6 @@ TODO: add more.
 > この「自分の頭で考える」という、非効率ではあるけれどもすばらしく楽しい思考の世界を
 > 多くの方に楽しんでいただきたいと思っているし、そしてそのために、この本が少しでも役に立てばと願っています。
 
-# The first prototype of Weekend Fabrication
 [1st prototype of Weekend Fabrication](http://weekend-fabrication.yasulab.com/)
 
 > モノ作りのプロセス：
