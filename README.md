@@ -60,12 +60,10 @@ Criteria(?):
 
 # Feedbacks 
 
-## from 2nd Weekend Fabrication (Lexues Academy 1st)
+TODO: need to add more and more...
 
-TODO: add more.
+## from 3rd Weekend Fabrication (Lexues Academy 2nd)
 
-- [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
-- []
 - [週末ものづくり講座の体験版を受けてきた。](http://kimihito.hatenablog.com/entry/2012/09/23/173751)
   - 優秀な人に負担がかかりやすい？
   - 「人に聞く前に自分でやることガイドライン」の必要性：
@@ -81,6 +79,11 @@ TODO: add more.
   - 一週間で作ろうとすると、アイデアが小さくなりがち.
   - アカデミアに不向き？: survey 不足・新規性の欠如.
   - レガシーな技術で実装してしまいがち？
+  
+## from 2nd Weekend Fabrication (Lexues Academy 1st)
+
+- [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
+
 
 ## from 1st Weekend Fabrication in IT College Okinawa
 
