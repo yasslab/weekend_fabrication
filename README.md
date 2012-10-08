@@ -38,9 +38,13 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 TODO: write details with sentences.
 
-## Concept (draft)
+## Concept
 
-![Concept(draft)](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_draft.jpg)
+__Thu number of actual users of your product is important, yet the most impotant thing in this academy is to acquire the mind set of individual thinking, through tons of fabrications.__
+
+## System (draft)
+
+![System(draft)](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_draft.jpg)
 
 ## Model
 
