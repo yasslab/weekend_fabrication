@@ -51,7 +51,9 @@ __Thu number of actual users of your product is important, yet the most impotant
 ![Model](https://raw.github.com/yasulab/weekend_fabrication/master/images/model.png)
 
 
-# Feedbacks from students
+# Feedbacks 
+
+## from 2nd Weekend Fabrication (Lexues Academy 1st)
 
 TODO: add more.
 
@@ -72,7 +74,10 @@ TODO: add more.
   - アカデミアに不向き？: survey 不足・新規性の欠如.
   - レガシーな技術で実装してしまいがち？
 
+## from 1st Weekend Fabrication in IT College Okinawa
 
+- [hanachin C-x C-c: 週末ものづくり講座で作ったもの学んだこと](http://blog.hanach.in/2011/12/blog-post_01.html)
+ 
 # NOTE (ja)
 
 自己学習型の人間を育てるコツ:
@@ -109,6 +114,7 @@ TODO: add more.
 > この「自分の頭で考える」という、非効率ではあるけれどもすばらしく楽しい思考の世界を
 > 多くの方に楽しんでいただきたいと思っているし、そしてそのために、この本が少しでも役に立てばと願っています。
 
+# The first prototype of Weekend Fabrication
 [1st prototype of Weekend Fabrication](http://weekend-fabrication.yasulab.com/)
 
 > モノ作りのプロセス：
