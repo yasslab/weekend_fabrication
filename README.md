@@ -137,6 +137,10 @@ TODO: add more.
 
 T.B.D.
 
+# Media
+
+- [沖縄の技術者がアツい！ハッカソンレポ＆代表者に聞いた](http://www.atmarkit.co.jp/fjava/rensai4/community01/02.html)
+
 # License
 
 (The MIT License)
