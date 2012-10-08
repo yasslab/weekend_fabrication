@@ -40,9 +40,16 @@ TODO: write details with sentences.
 
 ## Concept
 
-__Thu number of actual users of your product is important, yet the most impotant thing in this academy is to acquire the mind set of individual thinking, through tons of fabrications.__
+__The number of actual users of your product is important, yet the most impotant thing in this academy is to acquire the mind set of individual thinking, through tons of fabrications.__
 
-## System (draft)
+Criteria(?):
+
+- How often the graduates make things AFTER Weekend Fabrication (with individual thinking)?
+
+
+## System (draft image)
+
+### The way to enhance superior students much better.
 
 ![System(draft)](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_draft.jpg)
 
@@ -58,6 +65,7 @@ __Thu number of actual users of your product is important, yet the most impotant
 TODO: add more.
 
 - [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
+- []
 - [週末ものづくり講座の体験版を受けてきた。](http://kimihito.hatenablog.com/entry/2012/09/23/173751)
   - 優秀な人に負担がかかりやすい？
   - 「人に聞く前に自分でやることガイドライン」の必要性：
@@ -77,16 +85,19 @@ TODO: add more.
 ## from 1st Weekend Fabrication in IT College Okinawa
 
 - [hanachin C-x C-c: 週末ものづくり講座で作ったもの学んだこと](http://blog.hanach.in/2011/12/blog-post_01.html)
- 
+- [GalleryPuzzler](http://hissorito.blogspot.com/2011/11/gallerypuzzler.html)
+
 # NOTE (ja)
 
-自己学習型の人間を育てるコツ:
+自己学習型(Independent Thinker)の人間を育てるコツ:
 
 1. 受講生の話は最後まで聞く。インタラプトしない。
 2. アドバイスを求められたときは選択肢を増やしてあげて、選ばせる。意思決定権は常に相手に。
    - たとえそれが失敗しようとも、その道を自分で選んだ事に意味がある。
    - 意思決定の回数をどんどん増やす方向がいい？
 3. 講師自体も積極的に挑戦する。じゃないと説得力が無い。
+
+__TODO: Why independent thinker?__
 
 [When to Advise? by Shu-san](http://www.facebook.com/shu/posts/287541571361141)
 
@@ -140,6 +151,7 @@ T.B.D.
 # Media
 
 - [沖縄の技術者がアツい！ハッカソンレポ＆代表者に聞いた](http://www.atmarkit.co.jp/fjava/rensai4/community01/02.html)
+- [週末ものづくり講座｜Weekend Fabrication](http://www.wizdom.cs.waseda.ac.jp/weekend-fabrication/)
 
 # License
 
