@@ -64,6 +64,9 @@ TODO: need to add more and more...
 
 ## from 3rd Weekend Fabrication (Lexues Academy 2nd)
 
+- 「作りたいものリスト」を最初の段階で作った方がいい？
+   - cf. コンセプトの作り方・削り方
+
 - [週末ものづくり講座の体験版を受けてきた。](http://kimihito.hatenablog.com/entry/2012/09/23/173751)
   - 優秀な人に負担がかかりやすい？
   - 「人に聞く前に自分でやることガイドライン」の必要性：
