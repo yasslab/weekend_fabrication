@@ -159,6 +159,16 @@ T.B.D.
 - [沖縄の技術者がアツい！ハッカソンレポ＆代表者に聞いた](http://www.atmarkit.co.jp/fjava/rensai4/community01/02.html)
 - [週末ものづくり講座｜Weekend Fabrication](http://www.wizdom.cs.waseda.ac.jp/weekend-fabrication/)
 
+# References
+
+This class inspires from my study/work abroad, a lot of startup/development experiences, and the ideas from the following books.
+
+TODO: add more
+
+- [ものづくり革命 - パーソナル・ファブリケーションの夜明け](http://www.amazon.co.jp/gp/product/4797333146/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4797333146&linkCode=as2&tag=yasulab-22)
+- [リーンスタートアップ - ムダのない起業プロセスでイノベーションを生みだす](http://www.amazon.co.jp/gp/product/4822248976/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4822248976&linkCode=as2&tag=yasulab-22)
+- [FCバルセロナの人材育成術 - なぜバルサでは勝利と育成が両立するのか](http://www.amazon.co.jp/gp/product/4905154154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905154154&linkCode=as2&tag=yasulab-22)
+
 # License
 
 (The MIT License)
