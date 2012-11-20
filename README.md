@@ -31,7 +31,7 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 ![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/gist.png)
 
-### 週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
+### ※週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
 
 
 # How to run this course? (ja)
