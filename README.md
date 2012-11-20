@@ -36,7 +36,9 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 # How to run this course? (ja)
 
-TODO: write details with sentences.
+[![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/weekend-fabrication)
+
+[週末ものづくり講座 ~ 自己学習型の人間を育む方法 ~]
 
 ## Concept
 
