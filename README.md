@@ -38,8 +38,6 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 [![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/weekend-fabrication)
 
-[週末ものづくり講座 ~ 自己学習型の人間を育む方法 ~]
-
 ## Concept
 
 __The number of actual users of your product is important, yet the most impotant thing in this academy is to acquire the mind set of individual thinking, through tons of fabrications.__
