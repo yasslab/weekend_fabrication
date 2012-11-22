@@ -161,13 +161,12 @@ T.B.D.
 
 # References
 
-This class inspires from my study/work abroad, a lot of startup/development experiences, and the ideas from the following books.
-
-TODO: add more
+This course was created through my experiences that include my study/work abroad, startup/development experiences, and the ideas from the following books/talks.
 
 - [ものづくり革命 - パーソナル・ファブリケーションの夜明け](http://www.amazon.co.jp/gp/product/4797333146/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4797333146&linkCode=as2&tag=yasulab-22)
 - [リーンスタートアップ - ムダのない起業プロセスでイノベーションを生みだす](http://www.amazon.co.jp/gp/product/4822248976/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4822248976&linkCode=as2&tag=yasulab-22)
 - [FCバルセロナの人材育成術 - なぜバルサでは勝利と育成が両立するのか](http://www.amazon.co.jp/gp/product/4905154154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905154154&linkCode=as2&tag=yasulab-22)
+- [From Stanford to Startup, Entrepreneurial Thought Leaders Lecture Series, Stanford University](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
 
 # License
 
