@@ -22,7 +22,7 @@ At the end of the term, they will give presentations of their
 final product(s) in English to the media in Okinawa.
 
 
-__The number of actual users of your product is important, but the most impotant thing in this academy is to acquire the mind set of individual thought through tons of fabrications.__
+__The number of active users is important, so if one of your product gets them, it's perfect. But the most impotant thing of this course is to acquire the mind set of individual thinking through tons of fabrications.__
 
 
 This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/seminar/making.php).
