@@ -165,8 +165,10 @@ This course was created through my experiences that include my study/work abroad
 
 - [ものづくり革命 - パーソナル・ファブリケーションの夜明け](http://www.amazon.co.jp/gp/product/4797333146/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4797333146&linkCode=as2&tag=yasulab-22)
 - [リーンスタートアップ - ムダのない起業プロセスでイノベーションを生みだす](http://www.amazon.co.jp/gp/product/4822248976/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4822248976&linkCode=as2&tag=yasulab-22)
+- [Running Lean - 実践リーンスタートアップ](http://www.oreilly.co.jp/books/9784873115917/)
 - [FCバルセロナの人材育成術 - なぜバルサでは勝利と育成が両立するのか](http://www.amazon.co.jp/gp/product/4905154154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905154154&linkCode=as2&tag=yasulab-22)
 - [From Stanford to Startup, Entrepreneurial Thought Leaders Lecture Series, Stanford University](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
+- [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
 
 # License
 
