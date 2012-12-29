@@ -184,7 +184,7 @@ This course was created through my experiences that include my study/work abroad
   - * This depends on what things the students would like to make.
 - Refs for Online Marketing & Pricing:
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
-  - [Don't just roll the dice](http://neildavidson.com/download/dont-just-roll-the-dice/)
+  - [Don't just roll the dice - a usefully short guide to software pricing](http://neildavidson.com/download/dont-just-roll-the-dice/)
 - Refs for Presentation:
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
