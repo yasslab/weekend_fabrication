@@ -175,7 +175,7 @@ This course was created through my experiences that include my study/work abroad
 - Refs for Basic Skills(Reading, Listening, Writing, and Speaking):
   - English: [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
   - Japanese: [明文術 伝わる日本語の書きかた](http://www.amazon.co.jp/%E6%98%8E%E6%96%87%E8%A1%93-%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%9F-%E9%98%BF%E9%83%A8-%E5%9C%AD%E4%B8%80/dp/4757101961)
-- Refs for Design & Prototyping Cycle:
+- Refs for Design & Prototyping:
   - [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
   - [The Non-Designer's Design Book](http://www.amazon.co.jp/Non-Designers-Design-Book-The-Designers/dp/0321534042/ref=dp_ob_title_bk)
   - [Desining Interface](http://designinginterfaces.com/)
