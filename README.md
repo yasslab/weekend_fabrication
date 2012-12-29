@@ -173,11 +173,15 @@ This course was created through my experiences that include my study/work abroad
   - [採用基準，伊賀 泰代](http://www.amazon.co.jp/%E6%8E%A1%E7%94%A8%E5%9F%BA%E6%BA%96-%E4%BC%8A%E8%B3%80-%E6%B3%B0%E4%BB%A3/dp/4478023417)
   - [自分のアタマで考えよう，ちきりん](http://www.amazon.co.jp/%E8%87%AA%E5%88%86%E3%81%AE%E3%82%A2%E3%82%BF%E3%83%9E%E3%81%A7%E8%80%83%E3%81%88%E3%82%88%E3%81%86-%E3%81%A1%E3%81%8D%E3%82%8A%E3%82%93/dp/4478017034)
 - Refs for Basic Skills(Reading, Listening, Writing, and Speaking):
-  - [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
-- Refs for Design & Prototyping:
+  - English: [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
+  - Japanese: [明文術 伝わる日本語の書きかた](http://www.amazon.co.jp/%E6%98%8E%E6%96%87%E8%A1%93-%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%9F-%E9%98%BF%E9%83%A8-%E5%9C%AD%E4%B8%80/dp/4757101961)
+- Refs for Design & Prototyping Cycle:
   - [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
   - [The Non-Designer's Design Book](http://www.amazon.co.jp/Non-Designers-Design-Book-The-Designers/dp/0321534042/ref=dp_ob_title_bk)
   - [Desining Interface](http://designinginterfaces.com/)
+- Refs for Programming:
+  - [The Art of Readable Code](http://shop.oreilly.com/product/9780596802301.do)
+  - * This depends on what things the students would like to make.
 - Refs for Online Marketing & Pricing:
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
   - [Don't just roll the dice](http://neildavidson.com/download/dont-just-roll-the-dice/)
