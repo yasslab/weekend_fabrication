@@ -163,12 +163,26 @@ T.B.D.
 
 This course was created through my experiences that include my study/work abroad, startup/development experiences, and the ideas from the following books/talks.
 
-- [ものづくり革命 - パーソナル・ファブリケーションの夜明け](http://www.amazon.co.jp/gp/product/4797333146/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4797333146&linkCode=as2&tag=yasulab-22)
-- [リーンスタートアップ - ムダのない起業プロセスでイノベーションを生みだす](http://www.amazon.co.jp/gp/product/4822248976/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4822248976&linkCode=as2&tag=yasulab-22)
-- [Running Lean - 実践リーンスタートアップ](http://www.oreilly.co.jp/books/9784873115917/)
-- [FCバルセロナの人材育成術 - なぜバルサでは勝利と育成が両立するのか](http://www.amazon.co.jp/gp/product/4905154154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905154154&linkCode=as2&tag=yasulab-22)
-- [From Stanford to Startup, Entrepreneurial Thought Leaders Lecture Series, Stanford University](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
-- [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
+- Refs for Course Concept:
+  - [The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work](http://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549)
+  - [Fab ―パーソナルコンピュータからパーソナルファブリケーションへ](http://www.amazon.co.jp/Fab-%E2%80%95%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%B8-Make-Japan-Books/dp/4873115884)
+  - [リーンスタートアップ - ムダのない起業プロセスでイノベーションを生みだす](http://www.amazon.co.jp/gp/product/4822248976/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4822248976&linkCode=as2&tag=yasulab-22)
+  - [Running Lean - 実践リーンスタートアップ](http://www.oreilly.co.jp/books/9784873115917/)
+  - [FCバルセロナの人材育成術 - なぜバルサでは勝利と育成が両立するのか](http://www.amazon.co.jp/gp/product/4905154154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905154154&linkCode=as2&tag=yasulab-22)
+  - [From Stanford to Startup, Entrepreneurial Thought Leaders Lecture Series, Stanford University](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
+  - [採用基準，伊賀 泰代](http://www.amazon.co.jp/%E6%8E%A1%E7%94%A8%E5%9F%BA%E6%BA%96-%E4%BC%8A%E8%B3%80-%E6%B3%B0%E4%BB%A3/dp/4478023417)
+  - [自分のアタマで考えよう，ちきりん](http://www.amazon.co.jp/%E8%87%AA%E5%88%86%E3%81%AE%E3%82%A2%E3%82%BF%E3%83%9E%E3%81%A7%E8%80%83%E3%81%88%E3%82%88%E3%81%86-%E3%81%A1%E3%81%8D%E3%82%8A%E3%82%93/dp/4478017034)
+- Refs for Basic Skills(Reading, Listening, Writing, and Speaking):
+  - [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
+- Refs for Design & Prototyping:
+  - [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
+  - [The Non-Designer's Design Book](http://www.amazon.co.jp/Non-Designers-Design-Book-The-Designers/dp/0321534042/ref=dp_ob_title_bk)
+  - [Desining Interface](http://designinginterfaces.com/)
+- Refs for Online Marketing & Pricing:
+  - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
+  - [Don't just roll the dice](http://neildavidson.com/download/dont-just-roll-the-dice/)
+- Refs for Presentation:
+  - [Presentation Zen Series](http://www.presentationzen.com/)
 
 # License
 
