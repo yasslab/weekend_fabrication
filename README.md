@@ -36,7 +36,7 @@ This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/
 
 # How to run this course? (ja)
 
-[![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/weekend-fabrication)
+[![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/zhou-mo-mofalsedukurijiang-zuo-1)
 
 ## Concept
 
