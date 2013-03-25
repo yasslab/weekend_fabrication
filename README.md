@@ -1,6 +1,6 @@
 # 週末ものづくり講座 | Weekend Fabrication
 
-> English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md). | 英語版は[コチラ](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md)から。
+> English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md). | 英語版は[コチラ](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md)から。  
 > ※ 随時更新中。更新の詳細は[コミットログ](https://github.com/yasulab/weekend_fabrication/commits/master)を参照。
 
 目次：
@@ -25,14 +25,6 @@
 
 [![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/zhou-mo-mofalsedukurijiang-zuo-1)
 
-### Show & Tell の仕組み
-
-![System(draft)](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_draft.jpg)
-
-### 授業の流れ
-
-![Model](https://raw.github.com/yasulab/weekend_fabrication/master/images/model.png)
-
 ## 3. 受講生からの声
 
 ### 3rd Weekend Fabrication (Lexues Academy 2nd)
@@ -51,7 +43,7 @@
 
 - [ものづくり講座の運営Tipsのメモを公開します。](http://kimihito.hatenablog.com/entry/2012/09/23/182003)
 
-- 週末ものづくり講座 in Ryukyu Univ.
+- from 河野先生
   - 一週間で作ろうとすると、アイデアが小さくなりがち.
   - アカデミアに不向き？: survey 不足・新規性の欠如.
   - レガシーな技術で実装してしまいがち？
@@ -75,8 +67,6 @@
    - たとえそれが失敗しようとも、その道を自分で選んだ事に意味がある。
    - 意思決定の回数をどんどん増やす方向がいい？
 3. 講師自体も積極的に挑戦する。じゃないと説得力が無い。
-
-__TODO: Why independent thinker?__
 
 [When to Advise? by Shu-san](http://www.facebook.com/shu/posts/287541571361141)
 
@@ -130,7 +120,7 @@ __TODO: Why independent thinker?__
 
 ## 6. 参考文献
 
-This course was created through my experiences that include my study/work abroad, startup/development experiences, and the ideas from the following books/talks.
+This course was created through my experiences that include studying/working abroad, startup/opensource projects, and the ideas from the following books/talks.
 
 - Refs for Course Concept:
   - [The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work](http://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549)
