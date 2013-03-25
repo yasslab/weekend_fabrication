@@ -1,6 +1,6 @@
 # 週末ものづくり講座 | Weekend Fabrication
 
-> English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md). | 英語版は[コチラ](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md)から。  
+> English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md).  
 > ※ 随時更新中。更新の詳細は[コミットログ](https://github.com/yasulab/weekend_fabrication/commits/master)を参照。
 
 目次：
