@@ -1,68 +1,42 @@
-This is a single site repository that explains Weekend Fabrication course via README.md.
+# 週末ものづくり講座 | Weekend Fabrication
 
-This repository includes the following contents:
+* English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md). | 英語版は[コチラ](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md)から。
 
-1. What's Weekend Fabrication course?
-2. How to run this course? (Japanese only)
-3. Feedbacks from students.
-4. FAQ (Japanese only)
+目次：
 
-Details in English will be added upon demand.
+1. 週末ものづくり講座とは？
+2. 講座内容と目的
+3. 受講生からの声
+4. 講義ノート
+5. メディア掲載
+6. 参考文献
+7. ライセンス(MIT)
 
-# What's Weekend Fabrication course? (en)
+※ 随時更新中。更新の詳細はcommit logを参照。
 
-Weekend Fabrication is a lean-startup-based course that 
-teaches students in Okinawa, Japan, about how to make web/mobile 
-applications and English, where students need to 
-1) implement something he/she wants, 2) show it to others, 
-and 3) decide what to create/update/delete in the next week. 
+## 1. 週末ものづくり講座とは？
 
-All students taking this course repeats this process every week.
-At the end of the term, they will give presentations of their
-final product(s) in English to the media in Okinawa.
-
-
-__The number of active users is important, so if one of your product gets them, it's perfect. But the most impotant thing of this course is to acquire the mind set of individual thinking through tons of fabrications.__
-
-
-This course is now integrated with [Lexues Academy](http://academy.lexues.co.jp/seminar/making.php).
-
-# What's Weekend Fabrication course? (ja)
 
 ![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/gist.png)
 
 ### ※週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
 
 
-# How to run this course? (ja)
+## 2. 講座内容と目的
 
 [![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/zhou-mo-mofalsedukurijiang-zuo-1)
 
-## Concept
-
-__The number of actual users of your product is important, yet the most impotant thing in this academy is to acquire the mind set of individual thinking, through tons of fabrications.__
-
-Criteria(?):
-
-- How often the graduates make things AFTER Weekend Fabrication (with individual thinking)?
-
-
-## System (draft image)
-
-### The way to enhance superior students much better.
+### Show & Tell の仕組み
 
 ![System(draft)](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_draft.jpg)
 
-## Model
+### 授業の流れ
 
 ![Model](https://raw.github.com/yasulab/weekend_fabrication/master/images/model.png)
 
+## 3. 受講生からの声
 
-# Feedbacks 
-
-TODO: need to add more and more...
-
-## from 3rd Weekend Fabrication (Lexues Academy 2nd)
+### 3rd Weekend Fabrication (Lexues Academy 2nd)
 
 - 「作りたいものリスト」を最初の段階で作った方がいい？
    - cf. コンセプトの作り方・削り方
@@ -88,12 +62,12 @@ TODO: need to add more and more...
 - [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
 
 
-## from 1st Weekend Fabrication in IT College Okinawa
+### from 1st Weekend Fabrication in IT College Okinawa
 
 - [hanachin C-x C-c: 週末ものづくり講座で作ったもの学んだこと](http://blog.hanach.in/2011/12/blog-post_01.html)
 - [GalleryPuzzler](http://hissorito.blogspot.com/2011/11/gallerypuzzler.html)
 
-# NOTE (ja)
+## 4. 講義ノート
 
 自己学習型(Independent Thinker)の人間を育てるコツ:
 
@@ -150,16 +124,12 @@ __TODO: Why independent thinker?__
 >   - 2. 無くてもいい機能(e.g. ログイン画面)の実装より、コア機能の実装を。
 >   - 3. 失敗を恐れず、失敗に寛容な環境を大切にする。また、失敗から得られた知見を大切にする。
 
-# FAQ (ja)
-
-T.B.D.
-
-# Media
+## 5. メディア掲載
 
 - [沖縄の技術者がアツい！ハッカソンレポ＆代表者に聞いた](http://www.atmarkit.co.jp/fjava/rensai4/community01/02.html)
 - [週末ものづくり講座｜Weekend Fabrication](http://www.wizdom.cs.waseda.ac.jp/weekend-fabrication/)
 
-# References
+## 6. 参考文献
 
 This course was created through my experiences that include my study/work abroad, startup/development experiences, and the ideas from the following books/talks.
 
@@ -190,11 +160,11 @@ This course was created through my experiences that include my study/work abroad
 - Refs for Presentation:
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
-# License
+## 7. ライセンス(MIT)
 
 (The MIT License)
 
-Copyright (c) 2011 Yohei YASUKAWA
+Copyright (c) 2013 Yohei YASUKAWA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
