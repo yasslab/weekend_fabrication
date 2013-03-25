@@ -8,17 +8,18 @@
 1. [週末ものづくり講座とは？](https://github.com/yasulab/weekend_fabrication#1-)
 2. [講座内容と目的](https://github.com/yasulab/weekend_fabrication#2-)
 3. [受講生からの声](https://github.com/yasulab/weekend_fabrication#3-)
-4. [講義ノート](https://github.com/yasulab/weekend_fabrication#4-)
+4. [講義メモ](https://github.com/yasulab/weekend_fabrication#4-)
 5. [メディア掲載](https://github.com/yasulab/weekend_fabrication#5-)
 6. [参考文献](https://github.com/yasulab/weekend_fabrication#6-)
-7. [ライセンス(MIT)](https://github.com/yasulab/weekend_fabrication#7-mit)
+7. [関連リンク](https://github.com/yasulab/weekend_fabrication#7-)
+8. [ライセンス(MIT)](https://github.com/yasulab/weekend_fabrication#8-mit)
 
 ## 1. 週末ものづくり講座とは？
 
 
 ![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/gist.png)
 
-### ※週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
+### ※ 週末ものづくり講座は現在、[レキサスアカデミー](http://academy.lexues.co.jp/)の講座として実施されています。
 
 
 ## 2. 講座内容と目的
@@ -27,7 +28,7 @@
 
 ## 3. 受講生からの声
 
-### 3rd Weekend Fabrication (Lexues Academy 2nd)
+### 3rd Weekend Fabrication @ Lexues Academy 2nd
 
 - 「作りたいものリスト」を最初の段階で作った方がいい？
    - cf. コンセプトの作り方・削り方
@@ -48,17 +49,17 @@
   - アカデミアに不向き？: survey 不足・新規性の欠如.
   - レガシーな技術で実装してしまいがち？
   
-## from 2nd Weekend Fabrication (Lexues Academy 1st)
+### from 2nd Weekend Fabrication @ Lexues Academy 1st
 
 - [LexuesAcademyを超えるその日まで](http://blog.hanach.in/2012/03/lexuesacademy_22.html)
 
 
-### from 1st Weekend Fabrication in IT College Okinawa
+### from 1st Weekend Fabrication (Trial) @ IT College Okinawa
 
 - [hanachin C-x C-c: 週末ものづくり講座で作ったもの学んだこと](http://blog.hanach.in/2011/12/blog-post_01.html)
 - [GalleryPuzzler](http://hissorito.blogspot.com/2011/11/gallerypuzzler.html)
 
-## 4. 講義ノート
+## 4. 講義メモ
 
 自己学習型(Independent Thinker)の人間を育てるコツ:
 
@@ -115,8 +116,24 @@
 
 ## 5. メディア掲載
 
+### 週末ものづくり講座 (レキサスアカデミー統合前)
+
 - [沖縄の技術者がアツい！ハッカソンレポ＆代表者に聞いた](http://www.atmarkit.co.jp/fjava/rensai4/community01/02.html)
 - [週末ものづくり講座｜Weekend Fabrication](http://www.wizdom.cs.waseda.ac.jp/weekend-fabrication/)
+- [ミクの歌でキュンとさせるシューティング](http://d.pr/i/hrHG), 週刊アスキー
+- [優秀賞 : 「ミク☆キュン！」 by hanachin_](http://wise9.jp/archives/5655), 9leap×ピアプロ 初音ミクチャレンジ
+
+### レキサスアカデミー
+
+- [世界で活躍期待、IT技術者育成](http://www.facebook.com/photo.php?fbid=10150840280880869&set=a.10150840241290869.409081.715330868&type=3&theater), 沖縄タイムス, 2011年10月28日
+- [自作アプリに手応え、IT技術研修生が発表](http://www.facebook.com/photo.php?fbid=10150840286395869&set=a.10150840241290869.409081.715330868&type=3&theater), 沖縄タイムス, 2012年3月24日
+- [ＩＴ講座受講生募集](http://ryukyushimpo.jp/news/storyid-192811-storytopic-28.html), 琉球新報, 2012年6月20日
+- [アプリ制作、受講者募集](http://www.facebook.com/photo.php?fbid=10150882136595869&set=a.10150840241290869.409081.715330868&type=3&theater), 沖縄タイムス, 2012年6月20日
+- [レキサスアカデミー２期生、活動成果を発表](http://www.facebook.com/photo.php?fbid=10151343548745869&set=a.10150840241290869.409081.715330868&type=3&theater), Yahoo! Japan News, 2012年3月20日
+
+### 受講生成果物
+
+- [レキサスアカデミー - 活動レポート](http://academy.lexues.co.jp/report/)
 
 ## 6. 参考文献
 
@@ -149,7 +166,11 @@ This course was created through my experiences that include studying/working abr
 - Refs for Presentation:
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
-## 7. ライセンス(MIT)
+## 7. 関連リンク
+
+- [レキサスアカデミー公式サイト](http://academy.lexues.co.jp/)
+
+## 8. ライセンス(MIT)
 
 (The MIT License)
 
