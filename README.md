@@ -1,18 +1,17 @@
 # 週末ものづくり講座 | Weekend Fabrication
 
-* English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md). | 英語版は[コチラ](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md)から。
+> English Description is [HERE](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md). | 英語版は[コチラ](https://github.com/yasulab/weekend_fabrication/blob/master/README-en.md)から。
+> ※ 随時更新中。更新の詳細は[コミットログ](https://github.com/yasulab/weekend_fabrication/commits/master)を参照。
 
 目次：
 
-1. 週末ものづくり講座とは？
-2. 講座内容と目的
-3. 受講生からの声
-4. 講義ノート
-5. メディア掲載
-6. 参考文献
-7. ライセンス(MIT)
-
-※ 随時更新中。更新の詳細はcommit logを参照。
+1. [週末ものづくり講座とは？](https://github.com/yasulab/weekend_fabrication#1-)
+2. [講座内容と目的](https://github.com/yasulab/weekend_fabrication#2-)
+3. [受講生からの声](https://github.com/yasulab/weekend_fabrication#3-)
+4. [講義ノート](https://github.com/yasulab/weekend_fabrication#4-)
+5. [メディア掲載](https://github.com/yasulab/weekend_fabrication#5-)
+6. [参考文献](https://github.com/yasulab/weekend_fabrication#6-)
+7. [ライセンス(MIT)](https://github.com/yasulab/weekend_fabrication#7-mit)
 
 ## 1. 週末ものづくり講座とは？
 
