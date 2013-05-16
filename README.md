@@ -59,7 +59,7 @@
 - [hanachin C-x C-c: 週末ものづくり講座で作ったもの学んだこと](http://blog.hanach.in/2011/12/blog-post_01.html)
 - [GalleryPuzzler](http://hissorito.blogspot.com/2011/11/gallerypuzzler.html)
 
-## 4. 講義メモ
+## 4. 講義用メモ
 
 自己学習型(Independent Thinker)の人間を育てるコツ:
 
@@ -94,6 +94,15 @@
 > その人の意見を聞きたくなってしまいます。でも、そこをグッとこらえて自分で考えるんです。
 > この「自分の頭で考える」という、非効率ではあるけれどもすばらしく楽しい思考の世界を
 > 多くの方に楽しんでいただきたいと思っているし、そしてそのために、この本が少しでも役に立てばと願っています。
+
+[機械との競争](http://www.amazon.co.jp/%E6%A9%9F%E6%A2%B0%E3%81%A8%E3%81%AE%E7%AB%B6%E4%BA%89-%E3%82%A8%E3%83%AA%E3%82%AF%E3%83%BB%E3%83%96%E3%83%AA%E3%83%8B%E3%83%A7%E3%83%AB%E3%83%95%E3%82%BD%E3%83%B3/dp/4822249212) 第４章「では、どうすればいいか」 P. 127
+
+> ソフトなスキルの中でも、リーダーシップ、チーム作り、創造性などの重要性は高まる一方である。
+> これらは機械による自動化が最もむずかしく、しかも起業家精神にあふれたダイナミックな経済では
+> 最も需要の高いスキルだ。大学を出たら毎日上司にやることを指示されるような従来型の仕事に就こう
+> などと考えていると、いつの間にか機械との競争に巻き込まれていることに気づくだろう。
+> 上司のことこまかな指示に忠実に従うことにかけては、機械の方がはるかに得意であることを、
+> ゆめ忘れてはいけない。
 
 [1st prototype of Weekend Fabrication](http://weekend-fabrication.yasulab.com/)
 
@@ -150,6 +159,7 @@ This course was created through my experiences that include studying/working abr
   - [From Stanford to Startup, Entrepreneurial Thought Leaders Lecture Series, Stanford University](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
   - [自分のアタマで考えよう，ちきりん](http://www.amazon.co.jp/%E8%87%AA%E5%88%86%E3%81%AE%E3%82%A2%E3%82%BF%E3%83%9E%E3%81%A7%E8%80%83%E3%81%88%E3%82%88%E3%81%86-%E3%81%A1%E3%81%8D%E3%82%8A%E3%82%93/dp/4478017034)
   - [採用基準，伊賀 泰代](http://www.amazon.co.jp/%E6%8E%A1%E7%94%A8%E5%9F%BA%E6%BA%96-%E4%BC%8A%E8%B3%80-%E6%B3%B0%E4%BB%A3/dp/4478023417)
+  - [機械との競争](http://www.amazon.co.jp/%E6%A9%9F%E6%A2%B0%E3%81%A8%E3%81%AE%E7%AB%B6%E4%BA%89-%E3%82%A8%E3%83%AA%E3%82%AF%E3%83%BB%E3%83%96%E3%83%AA%E3%83%8B%E3%83%A7%E3%83%AB%E3%83%95%E3%82%BD%E3%83%B3/dp/4822249212)
 - Refs for Basic Skills(Reading, Listening, Writing, and Speaking):
   - English: [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
   - Japanese: [明文術 伝わる日本語の書きかた](http://www.amazon.co.jp/%E6%98%8E%E6%96%87%E8%A1%93-%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%9F-%E9%98%BF%E9%83%A8-%E5%9C%AD%E4%B8%80/dp/4757101961)
