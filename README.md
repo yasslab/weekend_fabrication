@@ -140,8 +140,9 @@
 - [アプリ制作、受講者募集](http://www.facebook.com/photo.php?fbid=10150882136595869&set=a.10150840241290869.409081.715330868&type=3&theater), 沖縄タイムス, 2012年6月20日
 - [レキサスアカデミー２期生、活動成果を発表](http://www.facebook.com/photo.php?fbid=10151343548745869&set=a.10150840241290869.409081.715330868&type=3&theater), Yahoo! Japan News, 2012年3月20日
 
-### 受講生成果物
+### 受講生の成果物に関する成果
 
+- [Show Your Opensource Activities w/ ScreenX TV, Rubykaigi 2013 - Lightning Talk](http://rubykaigi.org/2013/lightning_talks)
 - [レキサスアカデミー - 活動レポート](http://academy.lexues.co.jp/report/)
 
 ## 6. 参考文献
