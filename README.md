@@ -24,7 +24,7 @@
 
 ## 2. 講座内容と目的
 
-[![Weekend Fabrication](https://raw.github.com/yasulab/weekend_fabrication/master/images/concept_cover.png)](https://speakerdeck.com/yasulab/zhou-mo-mofalsedukurijiang-zuo-1)
+[![Weekend Fabrication](https://dl.dropboxusercontent.com/u/2819285/weekendfab/cover.png)](https://speakerdeck.com/yasulab/zhou-mo-mofalsedukurijiang-zuo-3-dot-0)
 
 ## 3. 受講生からの声
 
