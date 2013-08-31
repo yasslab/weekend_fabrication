@@ -91,7 +91,7 @@
 >  考え、判断し、動く」ことを指導し始める時期は高校生でも中学生でもなく、
 >  小学生でいいと思います"
 
-[自分のアタマで考えよう, ちきりん](http://tumblr.yasulab.jp/post/12203738703)
+[自分のアタマで考えよう，ちきりん](http://tumblr.yasulab.jp/post/12203738703)
 
 > 「答えとしての知識」が目の前に現れてしまうと、さっさと考えることを放棄し、
 > 「なるほど！これが答えなのね！すごい！」と感心してそのまま受け入れてしまうような
@@ -195,6 +195,7 @@ This course was created through my experiences that include studying/working abr
   - [Don't Make Me Think: A Common Sense Approach to Web Usability (2e)](http://www.sensible.com/dmmt.html)
 - Refs for Programming:
   - [The Art of Readable Code](http://shop.oreilly.com/product/9780596802301.do)
+  - [コーディングを支える技術](http://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-~%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BD%9C%E6%B3%95-WEB-PRESS-plus/dp/477415654X)
   - * This depends on what things the students would like to make.
 - Refs for Online Marketing & Pricing:
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
