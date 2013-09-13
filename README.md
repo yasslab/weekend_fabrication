@@ -198,7 +198,7 @@ This course was created through my experiences that include studying/working abr
   - [FCバルセロナの人材育成術 - なぜバルサでは勝利と育成が両立するのか](http://www.amazon.co.jp/gp/product/4905154154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4905154154&linkCode=as2&tag=yasulab-22)
   - [自分のアタマで考えよう，ちきりん](http://www.amazon.co.jp/%E8%87%AA%E5%88%86%E3%81%AE%E3%82%A2%E3%82%BF%E3%83%9E%E3%81%A7%E8%80%83%E3%81%88%E3%82%88%E3%81%86-%E3%81%A1%E3%81%8D%E3%82%8A%E3%82%93/dp/4478017034)
   - [採用基準，伊賀 泰代](http://www.amazon.co.jp/%E6%8E%A1%E7%94%A8%E5%9F%BA%E6%BA%96-%E4%BC%8A%E8%B3%80-%E6%B3%B0%E4%BB%A3/dp/4478023417)
-  - [いちばんやさしい教える技術](http://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%95%99%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-%E5%90%91%E5%BE%8C-%E5%8D%83%E6%98%A5/dp/4522430884)
+  - [いちばんやさしい教える技術，向後 千春](http://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%95%99%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-%E5%90%91%E5%BE%8C-%E5%8D%83%E6%98%A5/dp/4522430884)
 - Refs for Basic Skills(Reading, Listening, Writing, and Speaking):
   - English: [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
   - Japanese: [明文術 伝わる日本語の書きかた](http://www.amazon.co.jp/%E6%98%8E%E6%96%87%E8%A1%93-%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%9F-%E9%98%BF%E9%83%A8-%E5%9C%AD%E4%B8%80/dp/4757101961)
