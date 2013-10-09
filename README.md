@@ -5,14 +5,14 @@
 
 目次：
 
-1. [週末ものづくり講座とは？](https://github.com/yasulab/weekend_fabrication#1-)
-2. [講座内容と目的](https://github.com/yasulab/weekend_fabrication#2-)
-3. [受講生からの声](https://github.com/yasulab/weekend_fabrication#3-)
-4. [講義メモ](https://github.com/yasulab/weekend_fabrication#4-)
-5. [メディア掲載](https://github.com/yasulab/weekend_fabrication#5-)
-6. [参考文献](https://github.com/yasulab/weekend_fabrication#6-)
-7. [関連リンク](https://github.com/yasulab/weekend_fabrication#7-)
-8. [ライセンス(MIT)](https://github.com/yasulab/weekend_fabrication#8-mit)
+1. [週末ものづくり講座とは？](https://github.com/yasulab/weekend_fabrication#1-%E9%80%B1%E6%9C%AB%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E8%AC%9B%E5%BA%A7%E3%81%A8%E3%81%AF)
+2. [講座内容と目的](https://github.com/yasulab/weekend_fabrication#2-%E8%AC%9B%E5%BA%A7%E5%86%85%E5%AE%B9%E3%81%A8%E7%9B%AE%E7%9A%84)
+3. [受講生からの声](https://github.com/yasulab/weekend_fabrication#3-%E5%8F%97%E8%AC%9B%E7%94%9F%E3%81%8B%E3%82%89%E3%81%AE%E5%A3%B0)
+4. [講義メモ](https://github.com/yasulab/weekend_fabrication#4-%E8%AC%9B%E7%BE%A9%E7%94%A8%E3%83%A1%E3%83%A2)
+5. [メディア掲載](https://github.com/yasulab/weekend_fabrication#5-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89)
+6. [参考文献](https://github.com/yasulab/weekend_fabrication#6-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)
+7. [関連リンク](https://github.com/yasulab/weekend_fabrication#7-%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
+8. [ライセンス(MIT)](https://github.com/yasulab/weekend_fabrication#8-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9mit)
 
 ## 1. 週末ものづくり講座とは？
 
