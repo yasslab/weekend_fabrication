@@ -208,7 +208,7 @@
 
 This course was created through my experiences that include studying/working abroad, startup/opensource projects, and the ideas from the following books/talks.
 
-- Refs for Course Concept:
+- 講義コンセプト:
   - [Experience and Education](http://en.wikipedia.org/wiki/Experience_and_Education_(book\)), John Dewey
   - [The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work](http://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549)
   - [Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
@@ -224,24 +224,24 @@ This course was created through my experiences that include studying/working abr
   - [採用基準，伊賀 泰代](http://www.amazon.co.jp/%E6%8E%A1%E7%94%A8%E5%9F%BA%E6%BA%96-%E4%BC%8A%E8%B3%80-%E6%B3%B0%E4%BB%A3/dp/4478023417)
   - [いちばんやさしい教える技術，向後 千春](http://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%95%99%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-%E5%90%91%E5%BE%8C-%E5%8D%83%E6%98%A5/dp/4522430884)
   - 阿部和広氏に聞く：[前編](http://cybozushiki.cybozu.co.jp/?p=11813) / [後編](http://cybozushiki.cybozu.co.jp/?p=11838)，サイボウズ式
-- Refs for Basic Skills(Reading, Listening, Writing, and Speaking):
-  - English: [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
-  - Japanese: [明文術 伝わる日本語の書きかた](http://www.amazon.co.jp/%E6%98%8E%E6%96%87%E8%A1%93-%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%9F-%E9%98%BF%E9%83%A8-%E5%9C%AD%E4%B8%80/dp/4757101961)
-- Refs for Producing Ideas:
-  - [A Technique for Producing Ideas: The simple, five-step formula anyone can use to be more creative in business and in life!](http://www.amazon.com/Technique-Producing-Ideas-five-step-creative/dp/1434102750/)
-- Refs for Design & Prototyping:
+- 文章術 (Reading, Listening, Writing, and Speaking):
+  - 英語: [The Official Guide to the New TOEFL iBT, ETS](http://www.amazon.co.jp/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk)
+  - 日本語: [明文術 伝わる日本語の書きかた](http://www.amazon.co.jp/%E6%98%8E%E6%96%87%E8%A1%93-%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%9F-%E9%98%BF%E9%83%A8-%E5%9C%AD%E4%B8%80/dp/4757101961)
+- アイデア:
+  - [アイデアのつくり方](http://www.amazon.co.jp/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9-%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9-W-%E3%83%A4%E3%83%B3%E3%82%B0/dp/4484881047)
+- デザイン & プロトタイピング:
   - [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
-  - [The Non-Designer's Design Book](http://www.amazon.co.jp/Non-Designers-Design-Book-The-Designers/dp/0321534042/ref=dp_ob_title_bk)
-  - [Desining Interface (2e)](http://designinginterfaces.com/)
-  - [Don't Make Me Think: A Common Sense Approach to Web Usability (2e)](http://www.sensible.com/dmmt.html)
-- Refs for Programming:
-  - [The Art of Readable Code](http://shop.oreilly.com/product/9780596802301.do)
+  - [ノンデザイナーズ・デザインブック](http://www.amazon.co.jp/%E3%83%8E%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E8%A3%85%E5%A2%97%E8%A3%9C%E7%89%88-Robin-Williams/dp/4839928401)
+  - [デザイニング・インターフェイス (2e)](http://designinginterfaces.com/)，[各章の要約まとめ](https://www.facebook.com/groups/di2e.study/)
+  - [Don't Make Me Think): A Common Sense Approach to Web Usability (2e)](http://www.sensible.com/dmmt.html)
+- プログラミング全般:
+  - [リーダブルコード - より良いコードを書くためのシンプルで実践的なテクニック](http://www.oreilly.co.jp/books/9784873115658/)
   - [コーディングを支える技術](http://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-~%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BD%9C%E6%B3%95-WEB-PRESS-plus/dp/477415654X)
-  - * This depends on what things the students would like to make.
-- Refs for Online Marketing & Pricing:
+  - * The books for programming language heavily depend on what students would like to make.
+- マーケティング & 価格戦略:
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
   - [Don't Just Roll the Dice - a usefully short guide to software pricing](http://neildavidson.com/download/dont-just-roll-the-dice/)
-- Refs for Presentation:
+- プレゼンテーション:
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
 ## 7. 関連リンク
