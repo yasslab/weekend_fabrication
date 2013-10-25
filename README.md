@@ -237,7 +237,13 @@ This course was created through my experiences that include studying/working abr
 - プログラミング全般:
   - [リーダブルコード - より良いコードを書くためのシンプルで実践的なテクニック](http://www.oreilly.co.jp/books/9784873115658/)
   - [コーディングを支える技術](http://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-~%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BD%9C%E6%B3%95-WEB-PRESS-plus/dp/477415654X)
-  - * The books for programming language heavily depend on what students would like to make.
+- 作りたいもの別オススメ教材:
+  - ○○のプログラミング言語を学びたい: [ドットインストール](http://dotinstall.com/)
+  - iOSアプリを作りたい: T.B.D.
+  - Androidアプリを作りたい: T.B.D.
+  - ウェブサービスを作りたい: [Rails チュートリアル]，[Ruby/Rails Study Guide](http://qwik.jp/okinawarb/3.html)
+  - 電子工作をしてみたい: [Arduinoをはじめようキット](http://www.switch-science.com/catalog/181/)
+  - Digital Fabrication をしてみたい: [各機材の使い方まとめ](http://www.slideshare.net/mgwsuzuki/presentations)
 - マーケティング & 価格戦略:
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
   - [Don't Just Roll the Dice - a usefully short guide to software pricing](http://neildavidson.com/download/dont-just-roll-the-dice/)
