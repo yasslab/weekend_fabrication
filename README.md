@@ -241,7 +241,7 @@ This course was created through my experiences that include studying/working abr
   - ○○のプログラミング言語を学びたい: [ドットインストール](http://dotinstall.com/)
   - iOSアプリを作りたい: T.B.D.
   - Androidアプリを作りたい: T.B.D.
-  - ウェブサービスを作りたい: [Rails チュートリアル]，[Ruby/Rails Study Guide](http://qwik.jp/okinawarb/3.html)
+  - ウェブサービスを作りたい: [Rails チュートリアル](http://railstutorial.jp)，[Ruby/Rails Study Guide](http://qwik.jp/okinawarb/3.html)
   - 電子工作をしてみたい: [Arduinoをはじめようキット](http://www.switch-science.com/catalog/181/)
   - Digital Fabrication をしてみたい: [各機材の使い方まとめ](http://www.slideshare.net/mgwsuzuki/presentations)
 - マーケティング & 価格戦略:
