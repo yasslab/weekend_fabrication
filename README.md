@@ -230,7 +230,6 @@ This course was created through my experiences that include studying/working abr
 - アイデア:
   - [アイデアのつくり方](http://www.amazon.co.jp/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9-%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9-W-%E3%83%A4%E3%83%B3%E3%82%B0/dp/4484881047)
 - デザイン & プロトタイピング:
-  - [Bootcamp Bootleg, d.school, Stanford University](http://dschool.stanford.edu/use-our-methods/)
   - [ノンデザイナーズ・デザインブック](http://www.amazon.co.jp/%E3%83%8E%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E8%A3%85%E5%A2%97%E8%A3%9C%E7%89%88-Robin-Williams/dp/4839928401)
   - [デザイニング・インターフェイス (2e)](http://designinginterfaces.com/)，[各章の要約まとめ](https://www.facebook.com/groups/di2e.study/)
   - [Don't Make Me Think): A Common Sense Approach to Web Usability (2e)](http://www.sensible.com/dmmt.html)
@@ -242,8 +241,10 @@ This course was created through my experiences that include studying/working abr
   - iOSアプリを作りたい: [iOS Training](https://github.com/mixi-inc/iOSTraining) (Mixi Inc.)
   - Androidアプリを作りたい: [Android Training](https://github.com/mixi-inc/AndroidTraining) (Mixi Inc.)
   - SNS/Webサービスを作りたい: [Rails チュートリアル](http://railstutorial.jp)，[Ruby/Rails Study Guide](http://qwik.jp/okinawarb/3.html)
-  - 電子工作をしてみたい: T.B.D. //[Arduinoをはじめようキット](http://www.switch-science.com/catalog/181/) があるが、こちらは有料.
+  - 電子工作をしてみたい: T.B.D. ([Arduinoをはじめようキット](http://www.switch-science.com/catalog/181/) がありますが，こちらは有料.)
   - Digital Fabrication をしてみたい: [各機材の使い方まとめ](http://www.slideshare.net/mgwsuzuki/presentations)
+- インタビュー・デザイン思考
+  - [デザイン思考を学ぶための無料教材一覧, 一般社団法人デザイン思考研究所](http://designthinking.or.jp/)
 - マーケティング & 価格戦略:
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
   - [Don't Just Roll the Dice - a usefully short guide to software pricing](http://neildavidson.com/download/dont-just-roll-the-dice/)
