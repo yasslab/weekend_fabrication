@@ -232,7 +232,7 @@ This course was created through my experiences that include studying/working abr
 - デザイン & プロトタイピング:
   - [ノンデザイナーズ・デザインブック](http://www.amazon.co.jp/%E3%83%8E%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E6%96%B0%E8%A3%85%E5%A2%97%E8%A3%9C%E7%89%88-Robin-Williams/dp/4839928401)
   - [デザイニング・インターフェイス (2e)](http://designinginterfaces.com/)，[各章の要約まとめ](https://www.facebook.com/groups/di2e.study/)
-  - [Don't Make Me Think): A Common Sense Approach to Web Usability (2e)](http://www.sensible.com/dmmt.html)
+  - [Don't Make Me Think: A Common Sense Approach to Web Usability (2e)](http://www.sensible.com/dmmt.html)
 - プログラミング全般:
   - [リーダブルコード - より良いコードを書くためのシンプルで実践的なテクニック](http://www.oreilly.co.jp/books/9784873115658/)
   - [コーディングを支える技術](http://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-~%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BD%9C%E6%B3%95-WEB-PRESS-plus/dp/477415654X)
