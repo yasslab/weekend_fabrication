@@ -209,7 +209,7 @@
 This course was created through my experiences that include studying/working abroad, startup/opensource projects, and the ideas from the following books/talks.
 
 - 講義コンセプト:
-  - [Experience and Education](http://en.wikipedia.org/wiki/Experience_and_Education_(book\)), John Dewey
+  - [Experience and Education](http://en.wikipedia.org/wiki/Experience_and_Education_\(book\)), John Dewey
   - [The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work](http://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549)
   - [Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
   - [The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education](http://www.amazon.co.jp/The-Gamification-Learning-Instruction-Game-based/dp/1118096347/)
