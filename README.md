@@ -198,6 +198,7 @@
 - [ＩＴ講座受講生募集](http://ryukyushimpo.jp/news/storyid-192811-storytopic-28.html), 琉球新報, 2012年6月20日
 - [アプリ制作、受講者募集](http://www.facebook.com/photo.php?fbid=10150882136595869&set=a.10150840241290869.409081.715330868&type=3&theater), 沖縄タイムス, 2012年6月20日
 - [レキサスアカデミー２期生、活動成果を発表](http://www.facebook.com/photo.php?fbid=10151343548745869&set=a.10150840241290869.409081.715330868&type=3&theater), Yahoo! Japan News, 2012年3月20日
+- [TEDxRyukyu 2013 に採択、安川がスピーカーとして登壇](http://www.tedxryukyu.com/speaker.html)
 
 ### 受講生の成果物に関する成果
 
