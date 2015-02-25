@@ -247,6 +247,7 @@ This course was created through my experiences that include studying/working abr
 - インタビュー・デザイン思考
   - [デザイン思考を学ぶための無料教材一覧, 一般社団法人デザイン思考研究所](http://designthinking.or.jp/)
 - マーケティング & 価格戦略:
+  - [伝わっているか?](http://www.amazon.co.jp/%E4%BC%9D%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-%E5%B0%8F%E8%A5%BF%E5%88%A9%E8%A1%8C/dp/4883353044)
   - [The Whuffie Factor: Using the Power of Social Networks to Build Your Business](http://www.amazon.com/Whuffie-Factor-Social-Networks-Business/dp/0307409503)
   - [Don't Just Roll the Dice - a usefully short guide to software pricing](http://neildavidson.com/download/dont-just-roll-the-dice/)
 - プレゼンテーション:
