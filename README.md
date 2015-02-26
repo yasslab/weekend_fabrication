@@ -279,8 +279,8 @@ This course was created through my experiences that include studying/working abr
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
 ## 7. 関連リンク
-
 - [レキサスアカデミー公式サイト](http://academy.lexues.co.jp/)
+- [ヤスラボ](http://yasslab.jp/ja/)
 
 ## 8. ライセンス(MIT)
 

@@ -90,6 +90,11 @@ This course was created through my experiences that include studying/working abr
 - Refs for Presentation:
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
+# Related Websites
+- [Lexues Academy]http://academy.lexues.co.jp/)
+- [YassLab](http://yasslab.jp/en/)
+
+
 # License
 
 (The MIT License)
