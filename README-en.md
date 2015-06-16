@@ -91,7 +91,7 @@ This course was created through my experiences that include studying/working abr
   - [Presentation Zen Series](http://www.presentationzen.com/)
 
 # Related Websites
-- [Lexues Academy]http://academy.lexues.co.jp/)
+- [Lexues Academy](http://academy.lexues.co.jp/)
 - [YassLab](http://yasslab.jp/en/)
 
 
