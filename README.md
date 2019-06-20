@@ -24,7 +24,7 @@
 
 ## 2. 講座内容と目的
 
-[![Weekend Fabrication](https://dl.dropboxusercontent.com/u/2819285/weekendfab/cover.png)](https://speakerdeck.com/yasulab/weekend-fabrication-2013)
+[![Weekend Fabrication](https://i.gyazo.com/f1c8260a3b5455403fa2bc02d01718cf.png)](https://speakerdeck.com/yasulab/weekend-fabrication-2013)
 
 ## 3. 受講生からの声
 
